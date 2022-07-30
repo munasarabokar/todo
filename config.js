@@ -1,0 +1,1 @@
+export const MunasarContactAddress = '0x2a8b80b9e1D4D5A6A8A0246B2C26a0bAf26596AD'
